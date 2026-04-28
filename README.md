@@ -8,3 +8,7 @@ The environment was built using Microsoft Azure networking services and a Linux-
 Hybrid cloud networking | Secure IPsec tunnel configuration | Azure Virtual Network architecture | Routing and traffic flow validation | Firewall and NAT configuration | VPN troubleshooting and diagnostics
 
 Although the final tunnel establishment was limited by lack of administrative access to the upstream home router for IPsec passthrough/UDP forwarding, all core infrastructure, routing, VPN negotiation, and security configurations were successfully implemented and validated.
+
+
+Architecture
+!Gemini_Generated_Image_dv7u49dv7u49dv7u.png
