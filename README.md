@@ -11,4 +11,4 @@ Although the final tunnel establishment was limited by lack of administrative ac
 
 
 # #Architecture
-![Hybrid Cloud Architecture](Gemini_Generated_Image_dv7u49dv7u49dv7u.png)
+![Hybrid Cloud Architecture]
