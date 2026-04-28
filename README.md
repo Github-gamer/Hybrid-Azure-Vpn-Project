@@ -1,4 +1,4 @@
-# Hybrid-Azure-Vpn-Project
+# #Hybrid-Azure-Vpn-Project
 Hybrid Cloud Site-to-Site VPN (On-Prem VMware → Microsoft Azure)
 
 Overview
@@ -10,5 +10,5 @@ Hybrid cloud networking | Secure IPsec tunnel configuration | Azure Virtual Netw
 Although the final tunnel establishment was limited by lack of administrative access to the upstream home router for IPsec passthrough/UDP forwarding, all core infrastructure, routing, VPN negotiation, and security configurations were successfully implemented and validated.
 
 
-Architecture
-!Gemini_Generated_Image_dv7u49dv7u49dv7u.png
+# #Architecture
+![Hybrid Cloud Architecture](Gemini_Generated_Image_dv7u49dv7u49dv7u.png)
